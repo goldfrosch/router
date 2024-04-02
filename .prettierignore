@@ -1,8 +1,0 @@
-**/.next
-**/.nx/cache
-**/.svelte-kit
-**/build
-**/coverage
-**/dist
-pnpm-lock.yaml
-**/snapshots
